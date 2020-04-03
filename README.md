@@ -64,3 +64,18 @@ The Code involves building model applying Logistic Regression
 ###### The Accuracy,Precision,Recall and F1 Score is calculated.
 ###### k-Fold Cross Validation
 ###### Model tuning using GridSearchCV
+
+
+
+The Code involves building model applying Support Vector Classification algorithm.
+
+### Sections:
+###### problem statement
+###### importing data
+###### visualizing data using seaborn pairplots,scatter plot
+###### visualizing correlation
+###### Model Training
+###### Model Building
+###### Model Evaluation
+###### Improving Model-part 1
+###### Improving Model-part 2- using GridSearchCV
