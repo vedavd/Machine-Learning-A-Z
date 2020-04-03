@@ -20,3 +20,24 @@
 ###### Entropy Round-2
 ###### Gini Round-1
 ###### Gini Round-2
+
+
+# Analyzing Bank Churn
+
+### Dataset used: 
+###### churn_data.csv
+###### new_churn_data.csv(created as a result of Exploratory Data Analysis)
+
+### Python Code Files:
+###### Exploratory Data Analysis: Minimizing Churn -1-EDA
+###### Model: Minimizing Churn-2-Model
+
+The Code involves the building the model applying Logistic Regression
+
+### Techniques applied:
+###### One-Hot Encoding
+###### Train,Test Split
+###### Feature Scaling
+###### Model Building
+###### The Accuracy,Precision,Recall and F1 Score is calculated.
+###### k-Fold Cross Validation
