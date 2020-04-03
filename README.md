@@ -3,8 +3,8 @@
 ### Dataset used: financial_data.csv
 
 ### Python Code Files:
-#Exploratory Data Analysis: Predicting the likelihood of e-signing a loan-1-EDA
-#Model: Predicting the likelihood of e-signing a loan-2-Model
+# Exploratory Data Analysis: Predicting the likelihood of e-signing a loan-1-EDA
+# Model: Predicting the likelihood of e-signing a loan-2-Model
 
 ### The Code involves the building the models using following algorithms
 #Logistic Regression
