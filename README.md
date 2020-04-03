@@ -65,7 +65,14 @@ The Code involves building model applying Logistic Regression
 ###### k-Fold Cross Validation
 ###### Model tuning using GridSearchCV
 
+# Breast Cancer Classification
 
+### Dataset used: 
+inbuilt dataset present in scikit learn library
+
+### Python Code Files:
+
+# Breast Cancer Classification
 
 The Code involves building model applying Support Vector Classification algorithm.
 
