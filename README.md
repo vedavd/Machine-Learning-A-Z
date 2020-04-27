@@ -1,3 +1,12 @@
+# Machine Learning A-Z
+
+### 1-DataPreprocessing
+### 2-SimpleLinearRegression
+### 34-PCA
+### 35-LDA
+### 36-KernelPCA
+
+
 # Predicting the likelihood of e-signing a loan based on financial history
 
 ### Dataset used: financial_data.csv
